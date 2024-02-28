@@ -1,0 +1,10 @@
+.brand-logo span {
+    /* Your CSS styles for the span element here */
+    font-weight: bold;
+    color: #3fa1ff; /* Example color */
+    margin-right: 10px; /* Example margin */
+    font-size: x-large;
+}
+.formtitre{
+    color: yellow;
+}
